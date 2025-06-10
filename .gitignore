@@ -10,3 +10,4 @@ tmpPackage*
 
 # used while building dist
 tmpDist*
+config.bat
